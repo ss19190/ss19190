@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
 <h3 align="center">A passionate student from Poland</h3>
 <br>
+
 - 🔭 I’m currently working on **improving my skills**
 
 - 🌱 I’m currently learning **C++, Python and backend development**
