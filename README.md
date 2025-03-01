@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **finding new ways to get better**
 
-- 📫 How to reach me **sarass880@gmail.com**
+- 📫 How to reach me **sarass19190@gmail.com**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
